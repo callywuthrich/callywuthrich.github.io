@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "About"
+    url: /about/
   - title: "Guides"
     url: /guide/
   - title: "Topics"
-    url: /Topics/
+    url: /topics/
   - title: "Support"
     url: /support/ 
