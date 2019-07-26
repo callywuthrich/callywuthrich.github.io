@@ -1,7 +1,7 @@
 ---
 header:
-  image: https://upload.wikimedia.org/wikipedia/commons/2/23/Cathedral_and_Castle_Square_-_geograph.org.uk_-_134108.jpg
-  image_description: "Lincoln England"
+  image: https://live.staticflickr.com/5344/29914269923_a18dce45cb_b.jpg
+  image_description: "Bath England"
 ---
 body {
     margin: 0;
@@ -52,7 +52,7 @@ body {
     color: white;
     
     /* Background styles */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://upload.wikimedia.org/wikipedia/commons/2/23/Cathedral_and_Castle_Square_-_geograph.org.uk_-_134108.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://live.staticflickr.com/5344/29914269923_a18dce45cb_b.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
