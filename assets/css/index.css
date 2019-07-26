@@ -1,7 +1,7 @@
 ---
 header:
-  image: https://live.staticflickr.com/5344/29914269923_a18dce45cb_b.jpg
-  image_description: "Bath England"
+  image: https://aeroviews.uk/images/dronephotography_aeroviews.jpg
+  image_description: "Aerial England"
 ---
 body {
     margin: 0;
@@ -52,7 +52,7 @@ body {
     color: white;
     
     /* Background styles */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://live.staticflickr.com/5344/29914269923_a18dce45cb_b.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://aeroviews.uk/images/dronephotography_aeroviews.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
