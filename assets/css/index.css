@@ -8,6 +8,11 @@ body {
     font-family: sans-serif;
 }
 
+#main {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 .hero h1 {
     /* Text styles */
     font-size: 5em;
