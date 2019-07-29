@@ -56,7 +56,7 @@ body {
     color: black;
     
     /* Background styles */
-    background-image: linear-gradient(rgba(255, 255, 255, 0.25),rgba(255, 255, 255, 0.25)), url(https://aeroviews.uk/images/dronephotography_aeroviews.jpg);
+    background-image: linear-gradient(rgba(211, 211, 211, 0.5),rgba(211, 211, 211, 0.5)), url(https://aeroviews.uk/images/dronephotography_aeroviews.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
