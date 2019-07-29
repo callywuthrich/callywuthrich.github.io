@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Guides"
-    url: /guide/
+    url: /guides/
   - title: "Topics"
     url: /topics/
   - title: "Support"
