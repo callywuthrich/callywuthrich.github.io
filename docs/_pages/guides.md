@@ -1,4 +1,6 @@
 ---
+title: Guides
+permalink: /guides/
 defaults:
   # _pages
   - scope:
