@@ -56,49 +56,6 @@ body {
   padding-right: 20px;
 }
 
-#featured-wrapper {
-	overflow: hidden;
-	padding: 5em 0em;
-	background: #FFF;
-}
-	
-#featured h2 {
-	text-align: center;
-}
-
-#featured .icon {
-	position: relative;
-	display: block;
-	background: #2A70E8;
-	margin: 0px auto 20px auto;
-	line-height: 2.5em;
-	font-size: 4em;
-	text-align: center;
-	color: #FFF;
-}
-
-.column1,
-.column2,
-.column3,
-.column4 {
-	width: 282px;
-}
-	
-.column1,
-.column2 {
-	float: left;
-	margin-right: 24px;
-}
-	
-.column3 {
-	float: left;
-}
-	
-.column4 {
-	float: right;
-}
-
-
 /* Three columns side by side */
 .column {
   float: left;
